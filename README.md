@@ -9,3 +9,7 @@
 * Search for a book in the library
 * Check out a book from the library
 * Return a book to the library
+
+# How to run
+
+*Still working on a script to compile and the execute the project*
